@@ -1,0 +1,42 @@
+html {
+    background:img src="Images/Backgorund.jpeg" no-repeat center fixed;
+    background-size: cover;
+  }
+
+body{
+    background-color: #003366;
+	font-size:x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	line-height: 1.5;
+}
+
+header{
+	text-align: center;
+}
+
+nav {
+	display: inline-block;
+}
+
+footer{
+	text-align: center;
+}
+
+img {
+	width: 10%;
+	height: 10%;
+	object-fit: cover;
+	margin-left: 5%;
+	padding: auto;
+	display: inline-block;
+}
+
+ul {
+	font-size: large;
+	display: block;
+	padding: 0%;
+	text-decoration: none;
+	color: #ff6600;
+	list-style-type: none;
+}
